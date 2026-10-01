@@ -6,7 +6,7 @@ Portafolio personal e interactivo para presentar mi perfil como desarrollador de
 
 - **Repositorio:** [github.com/LianDev1/Actividad4](https://github.com/LianDev1/Actividad4.0.git)
 - **GitHub Pages:** [liandev1.github.io/Actividad4](https://liandev1.github.io/Actividad4.0/)
-- **Plantilla y código de referencia:** [Repositorio Actividad4](https://freefrontend.com/html-resume-templates/#2024-01-02-3d-cube-resume-with-css-transforms-l)
+- **Plantilla y código de referencia:** [3D Cube Resume with CSS Transforms](https://freefrontend.com/html-resume-templates/#2024-01-02-3d-cube-resume-with-css-transforms-l)
 
 ## Plantilla y tecnologías
 
