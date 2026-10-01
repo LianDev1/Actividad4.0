@@ -17,8 +17,6 @@ La interfaz conserva la plantilla de portafolio interactivo en forma de cubo 3D 
 - **Interacción:** JavaScript nativo en `js/js.js`; no se usan frameworks de JavaScript.
 - **Iconos:** Font Awesome cargado desde CDN.
 
-**Nota sobre el framework CSS:** esta versión de la plantilla 3D no carga Bootstrap ni Tailwind; su presentación está hecha con CSS propio. El proyecto de referencia anterior utilizaba Bootstrap 5.3.3. Se puede consultar o descargar Bootstrap desde [getbootstrap.com](https://getbootstrap.com/docs/5.3/getting-started/download/), pero no se afirma que Bootstrap sea una dependencia de esta versión.
-
 ## Secciones
 
 | Sección | Contenido |
@@ -48,9 +46,9 @@ Actividad4_nueva/
 
 ## Proceso de creación
 
-1. Se partió de la plantilla interactiva de cubo 3D que ya estaba en el proyecto.
+1. Se partió de la plantilla interactiva de cubo 3D que ya estaba en el proyecto https://freefrontend.com/html-resume-templates/#2024-01-02-3d-cube-resume-with-css-transforms-l.
 2. Se conectaron `index.html`, `css/style.css` y `js/js.js` para cargar correctamente la página y sus interacciones.
-3. Se reemplazó el perfil de ejemplo por el nombre, la foto, la ubicación, el correo y los enlaces de Jonathan.
+3. Se reemplazó el perfil de ejemplo por el nombre, la foto, la ubicación, el correo y los enlaces de mis perfiles.
 4. Se organizaron las tecnologías, experiencia, formación, actividades y proyectos en las seis caras disponibles.
 5. Se adaptaron los estilos para pantallas pequeñas y se sincronizó el estado accesible de los botones de navegación.
 6. Se probaron las seis secciones en escritorio y móvil, y se guardaron capturas de la página funcionando.
@@ -60,11 +58,3 @@ Actividad4_nueva/
 Portada del portafolio funcionando en Edge a 1366 × 900.
 
 ![Portada del portafolio en escritorio](img/capturas/portada.png)
-
-## Publicación en GitHub Pages
-
-1. Sube `index.html`, `css/`, `js/`, `img/` y `README.md` al repositorio público.
-2. En GitHub, abre **Settings > Pages**.
-3. En **Build and deployment**, selecciona **Deploy from a branch**, la rama `main` y la carpeta `/ (root)`; guarda los cambios.
-4. Espera a que termine la publicación y abre el enlace de GitHub Pages para comprobar la página.
-5. Comparte en el comentario de la clase los enlaces del repositorio y del sitio publicado.
